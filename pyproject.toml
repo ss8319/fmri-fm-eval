@@ -14,7 +14,7 @@ dependencies = [
     "einops",
     "huggingface_hub",
     "ipython",
-    "jaxtyping>=0.3.3",
+    "jaxtyping",
     "jupyter",
     "matplotlib",
     "neuromaps",
